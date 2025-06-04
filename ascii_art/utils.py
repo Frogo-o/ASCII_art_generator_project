@@ -1,6 +1,4 @@
 import io
-import os
-import shutil
 from PIL import Image
 
 def update_preview(image: Image.Image, window, key="-IMG-"):

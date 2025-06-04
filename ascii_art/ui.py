@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
 from PIL import Image, ImageGrab, ImageDraw
-import os
 import io
 import pyperclip
 
